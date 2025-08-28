@@ -4,7 +4,7 @@ import {
   useAnimation,
   useMotionValue,
   MotionValue,
-  Transition,
+  type Transition,
 } from "motion/react";
 interface CircularTextProps {
   text: string;
