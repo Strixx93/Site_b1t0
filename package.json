@@ -1,5 +1,6 @@
 {
   "name": "my-project",
+  "homepage": "https://strixx93.github.io/NewRobo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
